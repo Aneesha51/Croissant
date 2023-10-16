@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+
+footer {
+    text-align: center;
+    display: block;
+    margin-top: 15px;
+}
+
+footer a{
+    color: brown;
+    margin: 0px 10px;
+}
